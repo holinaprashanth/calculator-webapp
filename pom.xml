@@ -58,11 +58,11 @@
   <distributionManagement>
     <repository>
       <id>nexus-releases</id>
-      <url>http://your-nexus-host/repository/maven-releases/</url>
+      <url>http://34.203.249.24:8085/prashanth/repository/calculator-release/</url>
     </repository>
     <snapshotRepository>
       <id>nexus-snapshots</id>
-      <url>http://your-nexus-host/repository/maven-snapshots/</url>
+      <url>http://34.203.249.24:8085/prashanth/repository/calculator-snapshot/</url>
     </snapshotRepository>
   </distributionManagement>
 
